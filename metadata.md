@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: Journey Optimizer B2B Edition
 product: experience cloud
 type: Tutorial
 mini-toc-levels: 2
