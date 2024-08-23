@@ -5,6 +5,7 @@ product: experience cloud
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.en
+feature-set: Journey Optimizer B2B Edition
 hide: yes
 ---
 
