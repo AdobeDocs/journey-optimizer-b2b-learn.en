@@ -1,11 +1,11 @@
 ---
-title: Adobe Journey Optimizer B2B Edition Tutorials
-description: Watch video tutorials on Adobe Journey Optimizer B2B Edition. Improve your understanding of how to orchestrate account and buying group journeys and more.
+title: "[!DNL Adobe Journey Optimizer B2B Edition] Tutorials"
+description: Watch video tutorials on [!DNL Adobe Journey Optimizer B2B Edition]. Improve your understanding of how to orchestrate account and buying group journeys and more.
 ---
 
 # Overview
 
-Learn how to get the most out of Adobe Journey Optimizer B2B Edition. Orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings.
+Learn how to get the most out of [!DNL Adobe Journey Optimizer B2B Edition]. Orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings.
 
 >[!NOTE]
 >
