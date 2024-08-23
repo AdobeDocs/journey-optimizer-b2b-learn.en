@@ -16,7 +16,7 @@ Learn how to get the most out of Adobe Journey Optimizer B2B Edition. Orchestrat
 * [Buying groups overview](/help/buying-groups/buying-groups-overview.md)
 _Learn all about buying groups and how to utilize them._
 
-* [Create a buying group](help/buying-groups/create-a-buying-group.md)
+* [Create a buying group](/help/buying-groups/create-a-buying-group.md)
 _Learn how to use an account audience, a role template, and a solution interest to create buying groups._
 
 * [Solution interest](/help/buying-groups/solution-interest.md)
