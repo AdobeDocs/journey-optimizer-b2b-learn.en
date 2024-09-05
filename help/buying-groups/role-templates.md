@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 598
 last-substantial-update: 2024-08-23
 jira: KT-16052
+exl-id: 82f35fd7-41da-4883-bdeb-dd1beff8a0de
 ---
-
 # Role templates
 
 Learn about buying group role templates and how to configure/use them when creating a buying group.

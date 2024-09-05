@@ -1,8 +1,8 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
+title: '[!DNL Journey Optimizer B2B Edition] Tutorials'
 description: Watch video tutorials on [!DNL Journey Optimizer B2B Edition]. Improve your understanding of how to orchestrate account and buying group journeys and more.
+exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
 ---
-
 # [!DNL Journey Optimizer B2B Edition] Tutorials
 
 Learn how to get the most out of [!DNL Journey Optimizer B2B Edition]. Orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings.
