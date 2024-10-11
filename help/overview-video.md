@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer B2B Edition
+title: "[!DNL Journey Optimizer B2B Edition]"
 description: Learn about the components of a buying group and the basics of building an account journey.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -8,7 +8,7 @@ duration: 330
 last-substantial-update: 2024-08-23
 exl-id: d35d0ff4-74c0-49a0-bd07-1e70a8a84a35
 ---
-# Journey Optimizer B2B Edition
+# [!DNL Journey Optimizer B2B Edition]
 
 Learn about the components of a buying group and the basics of building an account journey.
 
