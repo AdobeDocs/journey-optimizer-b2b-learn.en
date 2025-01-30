@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 864
 last-substantial-update: 2025-01-29
 jira: KT-17236
+exl-id: 7b29a079-ab3f-4176-a72e-c6a4ec6640f0
 ---
-
 # Action node
 
 Learn about action nodes and how to configure them when creating an Account Journey.
