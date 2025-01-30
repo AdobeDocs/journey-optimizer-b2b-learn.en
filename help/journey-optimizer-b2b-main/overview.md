@@ -13,14 +13,20 @@ Learn how to get the most out of [!DNL Journey Optimizer B2B Edition]. Orchestra
 
 ## What's new {#whats-new}
 
-* [Buying groups overview](/help/buying-groups/buying-groups-overview.md)
-_Learn all about buying groups and how to utilize them._
+* [Introducing Account Journeys](/help/account-journeys/introducing-account-journeys.md)
+_Learn all about Account Journeys and how to use them to engage your target audience._
 
-* [Create a buying group](/help/buying-groups/create-a-buying-group.md)
-_Learn how to use an account audience, a role template, and a solution interest to create buying groups._
+* [Create an Account Journey](/help/account-journeys/create-an-account-journey.md)
+_Learn how to use account audience, action node, listen node, and split paths node to create Account Journeys._
 
-* [Solution interest](/help/buying-groups/solution-interest.md)
-_Learn about buying group solution interests and how to configure/use them when creating a buying group._
+* [Action node](/help/account-journeys/action-node.md)
+_Learn about action nodes and how to configure them when creating an Account Journey._
+
+* [Listen node](/help/account-journeys/listen-node.md)
+_Learn about listen nodes and how to configure them when creating an Account Journey._
+
+* [Split Account Journey](/help/account-journeys/split-account-journey.md)
+_Learn about split/merge path nodes and how to configure them when creating an Account Journey._
 
 ## Most popular videos {#most-popular-videos}
 
