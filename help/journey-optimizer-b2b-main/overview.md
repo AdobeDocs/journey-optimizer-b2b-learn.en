@@ -15,13 +15,13 @@ _Learn all about Account Journeys and how to use them to engage your target audi
 * [Create an Account Journey](/help/account-journeys/create-an-account-journey.md)
 _Learn how to use account audience, action node, listen node, and split paths node to create Account Journeys._
 
-* [Action node](/help/account-journeys/action-node.md)
+* [Action node](/help/account-journeys/journey-nodes/action-node.md)
 _Learn about action nodes and how to configure them when creating an Account Journey._
 
-* [Listen node](/help/account-journeys/listen-node.md)
+* [Listen node](/help/account-journeys/journey-nodes/listen-node.md)
 _Learn about listen nodes and how to configure them when creating an Account Journey._
 
-* [Split Account Journey](/help/account-journeys/split-account-journey.md)
+* [Split Account Journey](/help/account-journeys/journey-nodes/split-account-journey.md)
 _Learn about split/merge path nodes and how to configure them when creating an Account Journey._
 
 ## Most popular videos {#most-popular-videos}
