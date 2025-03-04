@@ -19,6 +19,7 @@ user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer
     + [Split account journey](/help/account-journeys/journey-nodes/split-account-journey.md)
 + Buying groups {#buying-groups}
   + [Buying groups overview](/help/buying-groups/buying-groups-overview.md)
+  + [Buying group stages](/help/buying-groups/buying-group-stages.md)
   + [Create a buying group](/help/buying-groups/create-a-buying-group.md)
   + [Role templates](/help/buying-groups/role-templates.md)
   + [Solution interest](/help/buying-groups/solution-interest.md)
