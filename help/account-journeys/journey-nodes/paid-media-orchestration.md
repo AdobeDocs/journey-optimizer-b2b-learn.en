@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 318
 last-substantial-update: 2025-03-04
 jira: KT-17445
+exl-id: 25f3692e-d611-44ff-92f6-b2fe7d427e11
 ---
-
 # Paid media orchestration
 
 Your customers are trying to engage with their customers through multi-channel tactics in order to acquire, nurture, and qualify for sales. This requires the ability to orchestrate from multiple channels, which can lead to a lot of manual work for marketing ops teams and a lack of true orchestration.

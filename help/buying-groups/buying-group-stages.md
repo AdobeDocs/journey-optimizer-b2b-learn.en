@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 958
 last-substantial-update: 2025-03-04
 jira: KT-17438
+exl-id: 413980c6-9705-4bc6-a0f1-61605719db37
 ---
-
 # Buying group stages
 
 Buying group stages represent the different phases that a buying group goes through in the decision-making process. They are designed to track the progression of buying groups by converting opportunities into customers and identifying the next best actions for buying group members.  
