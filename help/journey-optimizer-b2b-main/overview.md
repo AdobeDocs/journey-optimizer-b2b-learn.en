@@ -9,20 +9,14 @@ Learn how to get the most out of [!DNL Journey Optimizer B2B Edition]. Orchestra
 
 ## What's new {#whats-new}
 
-* [Introducing Account Journeys](/help/account-journeys/introducing-account-journeys.md)
-_Learn all about Account Journeys and how to use them to engage your target audience._
+* [Buying group stages](/help/buying-groups/buying-group-stages.md)
+_Learn how to create multiple buying group lifecycle stages within a single stage model and specify the transition rules._
 
-* [Create an Account Journey](/help/account-journeys/create-an-account-journey.md)
-_Learn how to use account audience, action node, listen node, and split paths node to create Account Journeys._
+* [Listen for AEP events](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+_Define and use any experience event in your account journey._
 
-* [Action node](/help/account-journeys/journey-nodes/action-node.md)
-_Learn about action nodes and how to configure them when creating an Account Journey._
-
-* [Listen node](/help/account-journeys/journey-nodes/listen-node.md)
-_Learn about listen nodes and how to configure them when creating an Account Journey._
-
-* [Split Account Journey](/help/account-journeys/journey-nodes/split-account-journey.md)
-_Learn about split/merge path nodes and how to configure them when creating an Account Journey._
+* [Paid media orchestration](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+_Learn how to use a journey to move people into an external audience, which you can then push to any supported paid media destination in the AEP destination catalog._
 
 ## Most popular videos {#most-popular-videos}
 
