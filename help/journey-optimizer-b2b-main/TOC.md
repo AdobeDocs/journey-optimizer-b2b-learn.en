@@ -9,8 +9,8 @@ user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer
 + [[!DNL Journey Optimizer B2B Edition] Tutorials](overview.md)
 + [[!DNL Journey Optimizer B2B Edition] overview](/help/overview-video.md)
 + Account journeys {#account-journeys}
-  + [Introducing Account Journeys](/help/account-journeys/introducing-account-journeys.md)
-  + [Create an Account Journey](/help/account-journeys/create-an-account-journey.md)
+  + [Introducing account journeys](/help/account-journeys/introducing-account-journeys.md)
+  + [Create an account journey](/help/account-journeys/create-an-account-journey.md)
   + Journey nodes {#journey-nodes}
     + [Action node](/help/account-journeys/journey-nodes/action-node.md)
     + [Listen node](/help/account-journeys/journey-nodes/listen-node.md)
