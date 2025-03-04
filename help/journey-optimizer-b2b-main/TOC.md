@@ -8,12 +8,15 @@ user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer
 
 + [[!DNL Journey Optimizer B2B Edition] Tutorials](overview.md)
 + [[!DNL Journey Optimizer B2B Edition] overview](/help/overview-video.md)
-+ Account Journeys {#account-journeys}
++ Account journeys {#account-journeys}
   + [Introducing Account Journeys](/help/account-journeys/introducing-account-journeys.md)
   + [Create an Account Journey](/help/account-journeys/create-an-account-journey.md)
-  + [Action node](/help/account-journeys/action-node.md)
-  + [Listen node](/help/account-journeys/listen-node.md)
-  + [Split Account Journey](/help/account-journeys/split-account-journey.md)
+  + Journey nodes {#journey-nodes}
+    + [Action node](/help/account-journeys/journey-nodes/action-node.md)
+    + [Listen node](/help/account-journeys/journey-nodes/listen-node.md)
+    + [Listen for AEP events](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+    + [Paid media orchestration](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+    + [Split account journey](/help/account-journeys/journey-nodes/split-account-journey.md)
 + Buying groups {#buying-groups}
   + [Buying groups overview](/help/buying-groups/buying-groups-overview.md)
   + [Create a buying group](/help/buying-groups/create-a-buying-group.md)

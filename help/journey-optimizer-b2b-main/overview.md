@@ -7,10 +7,6 @@ exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
 
 Learn how to get the most out of [!DNL Journey Optimizer B2B Edition]. Orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings.
 
->[!NOTE]
->
->More videos coming soon!
-
 ## What's new {#whats-new}
 
 * [Introducing Account Journeys](/help/account-journeys/introducing-account-journeys.md)
