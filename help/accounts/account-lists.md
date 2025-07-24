@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 331
 last-substantial-update: 2025-02-28
 jira: KT-17442
+exl-id: 5d659400-92ed-4fb1-af26-d36349cb3a2b
 ---
-
 # Account lists
 
 By using account lists, you can create filtered lists of accounts that can be used as journey audiences.
