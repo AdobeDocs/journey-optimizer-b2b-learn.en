@@ -17,6 +17,8 @@ user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer
     + [Listen for AEP events](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [Paid media orchestration](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
     + [Split account journey](/help/account-journeys/journey-nodes/split-account-journey.md)
++ Accounts {#accounts}
+  + [Account lists](/help/accounts/account-lists.md)
 + Buying groups {#buying-groups}
   + [Buying groups overview](/help/buying-groups/buying-groups-overview.md)
   + [Buying group stages](/help/buying-groups/buying-group-stages.md)

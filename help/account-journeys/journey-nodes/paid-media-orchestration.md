@@ -14,7 +14,7 @@ exl-id: 25f3692e-d611-44ff-92f6-b2fe7d427e11
 
 Your customers are trying to engage with their customers through multi-channel tactics in order to acquire, nurture, and qualify for sales. This requires the ability to orchestrate from multiple channels, which can lead to a lot of manual work for marketing ops teams and a lack of true orchestration.
 
-As a solution to this challenge, AJO B2B gives you the opportunity to: 
+As a solution to this challenge, [!DNL Journey Optimizer B2B Edition] gives you the opportunity to: 
 
 * Automate paid media engagement and architect your paid media through a visual journey interface.   
 
