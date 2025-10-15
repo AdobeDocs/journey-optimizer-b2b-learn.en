@@ -25,3 +25,4 @@ user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer
   + [Create a buying group](/help/buying-groups/create-a-buying-group.md)
   + [Role templates](/help/buying-groups/role-templates.md)
   + [Solution interest](/help/buying-groups/solution-interest.md)
+  + [Using the Account Qualification Agent](/help/buying-groups/account-qualification-agent.md)
