@@ -2,6 +2,7 @@
 user-guide-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
 breadcrumb-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
 user-guide-description: Learn how to get the most out of [!DNL Journey Optimizer B2B Edition]. Orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings.
+auto-video-transcripts: true
 ---
 
 # [!DNL Journey Optimizer B2B Edition] {#tutorials}
