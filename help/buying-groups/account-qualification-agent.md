@@ -8,6 +8,7 @@ doc-type: Technical Video
 duration: 163
 last-substantial-update: 2025-10-15
 jira: KT-19412
+exl-id: 3b1779da-baf6-4bd4-88ce-7c834fac1b8b
 ---
 # Using the Account Qualification Agent
 
