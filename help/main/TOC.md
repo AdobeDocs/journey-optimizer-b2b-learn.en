@@ -8,7 +8,7 @@ auto-video-transcripts: true
 # [!DNL Journey Optimizer B2B Edition] {#tutorials}
 
 + [[!DNL Journey Optimizer B2B Edition] Tutorials](overview.md)
-+ [[!DNL Journey Optimizer B2B Edition] overview](/help/main/overview-video.md)
++ [[!DNL Journey Optimizer B2B Edition] overview](overview-video.md)
 + Account journeys {#account-journeys}
   + [Introducing account journeys](/help/main/account-journeys/introducing-account-journeys.md)
   + [Create an account journey](/help/main/account-journeys/create-an-account-journey.md)
