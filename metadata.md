@@ -3,7 +3,7 @@ cloud: Experience Cloud
 solution: Journey Optimizer B2B Edition
 product_v2:
   - id: aacce07f-424e-489e-8d02-a4fb2f4211bd
-    label: "Journey Optimizer B2B Edition"
+    internal-label: "Journey Optimizer B2B Edition"
 product: experience cloud
 landing-page-name: journey-optimizer-b2b
 landing-page-breadcrumb-title: Journey Optimizer B2B
