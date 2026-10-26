@@ -1,5 +1,5 @@
 ---
-title: Split and merge paths in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Split and merge paths
 description: Learn how to split and merge paths in Adobe [!DNL Journey Optimizer B2B Edition] to route accounts or people by conditions, set path priority, and handle unmatched audiences.
 keywords: split paths, merge paths, Adobe [!DNL Journey Optimizer B2B Edition], account journey, journey nodes, account-based marketing, B2B journey orchestration, buying group readiness, path conditions, people split, event history filtering, journey segmentation
 feature: Account Journeys
@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Split and merge paths in Adobe [!DNL Journey Optimizer B2B Edition]
+# Split and merge paths
 
 Learn how to use split and merge path nodes in Adobe [!DNL Journey Optimizer B2B Edition] to route accounts or people through an account journey according to conditions. This video describes account and people splits, path priority, default paths, and merging.
 

@@ -1,5 +1,5 @@
 ---
-title: Buying groups overview in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Buying groups in [!DNL Journey Optimizer B2B Edition]
 description: Learn how to create, manage, and evaluate buying groups in Adobe [!DNL Journey Optimizer B2B Edition], from role templates and solution interests to readiness and role insights.
 keywords: buying groups, Adobe [!DNL Journey Optimizer B2B Edition], account-based marketing, B2B buying group, role templates, solution interest, account audience, buying group stages, buying group completeness, role insights, B2B marketing automation
 feature: Buying Groups
@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Buying groups overview in Adobe [!DNL Journey Optimizer B2B Edition]
+# Buying groups in [!DNL Journey Optimizer B2B Edition]
 
 Learn how buying groups organize people for B2B purchase decisions in [!DNL Adobe Journey Optimizer B2B Edition]. This video walks through the components you need, how to prepare a buying group creation job, and how to evaluate readiness.
 
