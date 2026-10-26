@@ -17,7 +17,7 @@ auto-video-transcripts: true
     + [Listen node](/help/main/account-journeys/journey-nodes/listen-node.md)
     + [Listen for AEP events](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [Paid media orchestration](/help/main/account-journeys/journey-nodes/paid-media-orchestration.md)
-    + [Split account journey](/help/main/account-journeys/journey-nodes/split-account-journey.md)
+    + [Split and merge paths](/help/main/account-journeys/journey-nodes/split-account-journey.md)
 + Accounts {#accounts}
   + [Account lists](/help/main/accounts/account-lists.md)
 + Buying groups {#buying-groups}
