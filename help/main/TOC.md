@@ -13,11 +13,11 @@ auto-video-transcripts: true
   + [Introducing journeys](/help/main/account-journeys/introducing-account-journeys.md)
   + [Create an account journey](/help/main/account-journeys/create-an-account-journey.md)
   + Journey nodes {#journey-nodes}
-    + [Action node](/help/main/account-journeys/journey-nodes/action-node.md)
-    + [Listen node](/help/main/account-journeys/journey-nodes/listen-node.md)
-    + [Listen for AEP events](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
+    + [Take an action node](/help/main/account-journeys/journey-nodes/action-node.md)
+    + [Listen for an event node](/help/main/account-journeys/journey-nodes/listen-node.md)
+    + [Listen for Experience Events](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [Paid media orchestration](/help/main/account-journeys/journey-nodes/paid-media-orchestration.md)
-    + [Split and merge paths](/help/main/account-journeys/journey-nodes/split-account-journey.md)
+    + [Split and merge paths nodes](/help/main/account-journeys/journey-nodes/split-account-journey.md)
 + Accounts {#accounts}
   + [Account lists](/help/main/accounts/account-lists.md)
 + Buying groups {#buying-groups}
